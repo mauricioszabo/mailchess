@@ -1,0 +1,7 @@
+email:
+  pop3: your.pop3.mail.server
+  smtp: your.mail.server
+  smtp_port: 25
+  email: your-address@mail.server
+  usuario: your-address
+  senha: your-password

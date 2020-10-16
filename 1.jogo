@@ -1,0 +1,20 @@
+--- !ruby/object:Tabuleiro 
+arquivo: ./1.jogo
+player1: mauricio.szabo@gmail.com
+player2: mauricio.szabo@ufabc.edu.br
+roque_maior: 0
+roque_maior_pretas: 0
+roque_menor: 0
+roque_menor_pretas: 0
+tabuleiro: 
+- TCBDRBCT
+- PPPPPPPP
+- "        "
+- "        "
+- "        "
+- "        "
+- pppppppp
+- tcbdrbct
+ultima_jogada: Fri Jul 04 17:05:21 -0300 2008
+vez: true
+vitoria: 

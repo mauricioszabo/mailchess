@@ -1,0 +1,7 @@
+email:
+  pop3: pop.mail.yahoo.com.br  
+  smtp: smtp.mail.yahoo.com.br 
+  smtp_port: 25
+  email: chess.server@yahoo.com.br
+  usuario: chess.server@yahoo.com.br
+  senha: SenhaDoEmail!
